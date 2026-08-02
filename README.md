@@ -1,4 +1,4 @@
-\# Dhan Somaiah
+Dhan Somaiah
 
 
 
@@ -10,7 +10,7 @@ Most of my production work lives in private Azure DevOps repositories.
 
 
 
-\## Activity
+Activity
 
 
 
